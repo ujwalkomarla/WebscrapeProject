@@ -1,0 +1,27 @@
+http://stackoverflow.com/questions/8650999/using-python-with-selenium-to-scrape-dynamic-web-pages
+http://www.marinamele.com/selenium-tutorial-web-scraping-with-selenium-and-python
+http://thiagomarzagao.com/2013/11/12/webscraping-with-selenium-part-1/
+
+
+
+http://stackoverflow.com/questions/64505/sending-mail-from-python-using-smtp
+http://stackoverflow.com/questions/6270782/how-to-send-an-email-with-python
+
+
+http://stackoverflow.com/questions/1418082/is-it-possible-to-hide-the-browser-in-selenium-cr
+
+
+Use port 3535 or someother as usual SMTP outgoing ports are blocked
+
+
+http://www.cyberciti.biz/faq/how-do-i-add-jobs-to-cron-under-linux-or-unix-oses/
+sudo cron start
+http://serverfault.com/questions/85893/running-a-cron-job-manually-and-immediately
+
+
+
+
+
+https://pypi.python.org/pypi/keyring#using-keyring
+http://stackoverflow.com/questions/157938/hiding-a-password-in-a-python-script
+https://pypi.python.org/pypi/keyring
